@@ -1,0 +1,453 @@
+[submodule "Qt-1"]
+	path = Qt-1
+	url = https://github.com/voidrealms/Qt-1.git
+[submodule "Qt-2"]
+	path = Qt-2
+	url = https://github.com/voidrealms/Qt-2.git
+[submodule "Qt-3"]
+	path = Qt-3
+	url = https://github.com/voidrealms/Qt-3.git
+[submodule "Qt-4"]
+	path = Qt-4
+	url = https://github.com/voidrealms/Qt-4.git
+[submodule "Qt-5"]
+	path = Qt-5
+	url = https://github.com/voidrealms/Qt-5.git
+[submodule "Qt-6"]
+	path = Qt-6
+	url = https://github.com/voidrealms/Qt-6.git
+[submodule "Qt-7"]
+	path = Qt-7
+	url = https://github.com/voidrealms/Qt-7.git
+[submodule "Qt-8"]
+	path = Qt-8
+	url = https://github.com/voidrealms/Qt-8.git
+[submodule "Qt-9"]
+	path = Qt-9
+	url = https://github.com/voidrealms/Qt-9.git
+[submodule "Qt-10"]
+	path = Qt-10
+	url = https://github.com/voidrealms/Qt-10.git
+[submodule "Qt-11"]
+	path = Qt-11
+	url = https://github.com/voidrealms/Qt-11.git
+[submodule "Qt-12"]
+	path = Qt-12
+	url = https://github.com/voidrealms/Qt-12.git
+[submodule "Qt-13"]
+	path = Qt-13
+	url = https://github.com/voidrealms/Qt-13.git
+[submodule "Qt-14"]
+	path = Qt-14
+	url = https://github.com/voidrealms/Qt-14.git
+[submodule "Qt-15"]
+	path = Qt-15
+	url = https://github.com/voidrealms/Qt-15.git
+[submodule "Qt-16"]
+	path = Qt-16
+	url = https://github.com/voidrealms/Qt-16.git
+[submodule "Qt-17"]
+	path = Qt-17
+	url = https://github.com/voidrealms/Qt-17.git
+[submodule "Qt-18"]
+	path = Qt-18
+	url = https://github.com/voidrealms/Qt-18.git
+[submodule "Qt-19"]
+	path = Qt-19
+	url = https://github.com/voidrealms/Qt-19.git
+[submodule "Qt-20"]
+	path = Qt-20
+	url = https://github.com/voidrealms/Qt-20.git
+[submodule "Qt-21"]
+	path = Qt-21
+	url = https://github.com/voidrealms/Qt-21.git
+[submodule "Qt-22"]
+	path = Qt-22
+	url = https://github.com/voidrealms/Qt-22.git
+[submodule "Qt-24"]
+	path = Qt-24
+	url = https://github.com/voidrealms/Qt-24.git
+[submodule "Qt-25"]
+	path = Qt-25
+	url = https://github.com/voidrealms/Qt-25.git
+[submodule "Qt-26"]
+	path = Qt-26
+	url = https://github.com/voidrealms/Qt-26.git
+[submodule "Qt-27"]
+	path = Qt-27
+	url = https://github.com/voidrealms/Qt-27.git
+[submodule "Qt-28"]
+	path = Qt-28
+	url = https://github.com/voidrealms/Qt-28.git
+[submodule "Qt-29"]
+	path = Qt-29
+	url = https://github.com/voidrealms/Qt-29.git
+[submodule "Qt-30"]
+	path = Qt-30
+	url = https://github.com/voidrealms/Qt-30.git
+[submodule "Qt-31"]
+	path = Qt-31
+	url = https://github.com/voidrealms/Qt-31.git
+[submodule "Qt-32"]
+	path = Qt-32
+	url = https://github.com/voidrealms/Qt-32.git
+[submodule "Qt-33"]
+	path = Qt-33
+	url = https://github.com/voidrealms/Qt-33.git
+[submodule "Qt-34"]
+	path = Qt-34
+	url = https://github.com/voidrealms/Qt-34.git
+[submodule "Qt-35"]
+	path = Qt-35
+	url = https://github.com/voidrealms/Qt-35.git
+[submodule "Qt-36"]
+	path = Qt-36
+	url = https://github.com/voidrealms/Qt-36.git
+[submodule "Qt-37"]
+	path = Qt-37
+	url = https://github.com/voidrealms/Qt-37.git
+[submodule "Qt-38"]
+	path = Qt-38
+	url = https://github.com/voidrealms/Qt-38.git
+[submodule "Qt-39"]
+	path = Qt-39
+	url = https://github.com/voidrealms/Qt-39.git
+[submodule "Qt-40"]
+	path = Qt-40
+	url = https://github.com/voidrealms/Qt-40.git
+[submodule "Qt-41"]
+	path = Qt-41
+	url = https://github.com/voidrealms/Qt-41.git
+[submodule "Qt-42"]
+	path = Qt-42
+	url = https://github.com/voidrealms/Qt-42.git
+[submodule "Qt-43"]
+	path = Qt-43
+	url = https://github.com/voidrealms/Qt-43.git
+[submodule "Qt-44"]
+	path = Qt-44
+	url = https://github.com/voidrealms/Qt-44.git
+[submodule "Qt-45"]
+	path = Qt-45
+	url = https://github.com/voidrealms/Qt-45.git
+[submodule "Qt-46"]
+	path = Qt-46
+	url = https://github.com/voidrealms/Qt-46.git
+[submodule "Qt-47"]
+	path = Qt-47
+	url = https://github.com/voidrealms/Qt-47.git
+[submodule "Qt-48"]
+	path = Qt-48
+	url = https://github.com/voidrealms/Qt-48.git
+[submodule "Qt-49"]
+	path = Qt-49
+	url = https://github.com/voidrealms/Qt-49.git
+[submodule "Qt-50"]
+	path = Qt-50
+	url = https://github.com/voidrealms/Qt-50.git
+[submodule "Qt-51"]
+	path = Qt-51
+	url = https://github.com/voidrealms/Qt-51.git
+[submodule "Qt-52"]
+	path = Qt-52
+	url = https://github.com/voidrealms/Qt-52.git
+[submodule "Qt-53"]
+	path = Qt-53
+	url = https://github.com/voidrealms/Qt-53.git
+[submodule "Qt-54"]
+	path = Qt-54
+	url = https://github.com/voidrealms/Qt-54.git
+[submodule "Qt-55"]
+	path = Qt-55
+	url = https://github.com/voidrealms/Qt-55.git
+[submodule "Qt-56"]
+	path = Qt-56
+	url = https://github.com/voidrealms/Qt-56.git
+[submodule "Qt-57"]
+	path = Qt-57
+	url = https://github.com/voidrealms/Qt-57.git
+[submodule "Qt-58"]
+	path = Qt-58
+	url = https://github.com/voidrealms/Qt-58.git
+[submodule "Qt-59"]
+	path = Qt-59
+	url = https://github.com/voidrealms/Qt-59.git
+[submodule "Qt-60"]
+	path = Qt-60
+	url = https://github.com/voidrealms/Qt-60.git
+[submodule "Qt-61"]
+	path = Qt-61
+	url = https://github.com/voidrealms/Qt-61.git
+[submodule "Qt-62"]
+	path = Qt-62
+	url = https://github.com/voidrealms/Qt-62.git
+[submodule "Qt-63"]
+	path = Qt-63
+	url = https://github.com/voidrealms/Qt-63.git
+[submodule "Qt-64"]
+	path = Qt-64
+	url = https://github.com/voidrealms/Qt-64.git
+[submodule "Qt-65"]
+	path = Qt-65
+	url = https://github.com/voidrealms/Qt-65.git
+[submodule "Qt-66"]
+	path = Qt-66
+	url = https://github.com/voidrealms/Qt-66.git
+[submodule "Qt-67"]
+	path = Qt-67
+	url = https://github.com/voidrealms/Qt-67.git
+[submodule "Qt-68"]
+	path = Qt-68
+	url = https://github.com/voidrealms/Qt-68.git
+[submodule "Qt-69"]
+	path = Qt-69
+	url = https://github.com/voidrealms/Qt-69.git
+[submodule "Qt-72"]
+	path = Qt-72
+	url = https://github.com/voidrealms/Qt-72.git
+[submodule "Qt-73"]
+	path = Qt-73
+	url = https://github.com/voidrealms/Qt-73.git
+[submodule "Qt-74"]
+	path = Qt-74
+	url = https://github.com/voidrealms/Qt-74.git
+[submodule "Qt-75"]
+	path = Qt-75
+	url = https://github.com/voidrealms/Qt-75.git
+[submodule "Qt-76"]
+	path = Qt-76
+	url = https://github.com/voidrealms/Qt-76.git
+[submodule "Qt-77"]
+	path = Qt-77
+	url = https://github.com/voidrealms/Qt-77.git
+[submodule "Qt-78"]
+	path = Qt-78
+	url = https://github.com/voidrealms/Qt-78.git
+[submodule "Qt-79"]
+	path = Qt-79
+	url = https://github.com/voidrealms/Qt-79.git
+[submodule "Qt-80"]
+	path = Qt-80
+	url = https://github.com/voidrealms/Qt-80.git
+[submodule "Qt-81"]
+	path = Qt-81
+	url = https://github.com/voidrealms/Qt-81.git
+[submodule "Qt-82"]
+	path = Qt-82
+	url = https://github.com/voidrealms/Qt-82.git
+[submodule "Qt-83"]
+	path = Qt-83
+	url = https://github.com/voidrealms/Qt-83.git
+[submodule "Qt-84"]
+	path = Qt-84
+	url = https://github.com/voidrealms/Qt-84.git
+[submodule "Qt-85"]
+	path = Qt-85
+	url = https://github.com/voidrealms/Qt-85.git
+[submodule "Qt-86"]
+	path = Qt-86
+	url = https://github.com/voidrealms/Qt-86.git
+[submodule "Qt-87"]
+	path = Qt-87
+	url = https://github.com/voidrealms/Qt-87.git
+[submodule "Qt-88"]
+	path = Qt-88
+	url = https://github.com/voidrealms/Qt-88.git
+[submodule "Qt-89"]
+	path = Qt-89
+	url = https://github.com/voidrealms/Qt-89.git
+[submodule "Qt-90"]
+	path = Qt-90
+	url = https://github.com/voidrealms/Qt-90.git
+[submodule "Qt-91"]
+	path = Qt-91
+	url = https://github.com/voidrealms/Qt-91.git
+[submodule "Qt-92"]
+	path = Qt-92
+	url = https://github.com/voidrealms/Qt-92.git
+[submodule "Qt-93"]
+	path = Qt-93
+	url = https://github.com/voidrealms/Qt-93.git
+[submodule "Qt-94"]
+	path = Qt-94
+	url = https://github.com/voidrealms/Qt-94.git
+[submodule "Qt-95"]
+	path = Qt-95
+	url = https://github.com/voidrealms/Qt-95.git
+[submodule "Qt-96"]
+	path = Qt-96
+	url = https://github.com/voidrealms/Qt-96.git
+[submodule "Qt-97"]
+	path = Qt-97
+	url = https://github.com/voidrealms/Qt-97.git
+[submodule "Qt-98"]
+	path = Qt-98
+	url = https://github.com/voidrealms/Qt-98.git
+[submodule "Qt-99"]
+	path = Qt-99
+	url = https://github.com/voidrealms/Qt-99.git
+[submodule "Qt-100"]
+	path = Qt-100
+	url = https://github.com/voidrealms/Qt-100.git
+[submodule "Qt-101"]
+	path = Qt-101
+	url = https://github.com/voidrealms/Qt-101.git
+[submodule "Qt-102"]
+	path = Qt-102
+	url = https://github.com/voidrealms/Qt-102.git
+[submodule "Qt-103"]
+	path = Qt-103
+	url = https://github.com/voidrealms/Qt-103.git
+[submodule "Qt-104"]
+	path = Qt-104
+	url = https://github.com/voidrealms/Qt-104.git
+[submodule "Qt-105"]
+	path = Qt-105
+	url = https://github.com/voidrealms/Qt-105.git
+[submodule "Qt-106"]
+	path = Qt-106
+	url = https://github.com/voidrealms/Qt-106.git
+[submodule "Qt-107"]
+	path = Qt-107
+	url = https://github.com/voidrealms/Qt-107.git
+[submodule "Qt-108"]
+	path = Qt-108
+	url = https://github.com/voidrealms/Qt-108.git
+[submodule "Qt-109"]
+	path = Qt-109
+	url = https://github.com/voidrealms/Qt-109.git
+[submodule "Qt-110"]
+	path = Qt-110
+	url = https://github.com/voidrealms/Qt-110.git
+[submodule "Qt-111"]
+	path = Qt-111
+	url = https://github.com/voidrealms/Qt-111.git
+[submodule "Qt-112"]
+	path = Qt-112
+	url = https://github.com/voidrealms/Qt-112.git
+[submodule "Qt-113"]
+	path = Qt-113
+	url = https://github.com/voidrealms/Qt-113.git
+[submodule "Qt-114"]
+	path = Qt-114
+	url = https://github.com/voidrealms/Qt-114.git
+[submodule "Qt-115"]
+	path = Qt-115
+	url = https://github.com/voidrealms/Qt-115.git
+[submodule "Qt-116"]
+	path = Qt-116
+	url = https://github.com/voidrealms/Qt-116.git
+[submodule "Qt-117"]
+	path = Qt-117
+	url = https://github.com/voidrealms/Qt-117.git
+[submodule "Qt-118"]
+	path = Qt-118
+	url = https://github.com/voidrealms/Qt-118.git
+[submodule "Qt-119"]
+	path = Qt-119
+	url = https://github.com/voidrealms/Qt-119.git
+[submodule "Qt-120"]
+	path = Qt-120
+	url = https://github.com/voidrealms/Qt-120.git
+[submodule "Qt-121"]
+	path = Qt-121
+	url = https://github.com/voidrealms/Qt-121.git
+[submodule "Qt-122"]
+	path = Qt-122
+	url = https://github.com/voidrealms/Qt-122.git
+[submodule "Qt-123"]
+	path = Qt-123
+	url = https://github.com/voidrealms/Qt-123.git
+[submodule "Qt-124"]
+	path = Qt-124
+	url = https://github.com/voidrealms/Qt-124.git
+[submodule "Qt-125"]
+	path = Qt-125
+	url = https://github.com/voidrealms/Qt-125.git
+[submodule "Qt-126"]
+	path = Qt-126
+	url = https://github.com/voidrealms/Qt-126.git
+[submodule "Qt-127"]
+	path = Qt-127
+	url = https://github.com/voidrealms/Qt-127.git
+[submodule "Qt-128"]
+	path = Qt-128
+	url = https://github.com/voidrealms/Qt-128.git
+[submodule "Qt-129"]
+	path = Qt-129
+	url = https://github.com/voidrealms/Qt-129.git
+[submodule "Qt-130"]
+	path = Qt-130
+	url = https://github.com/voidrealms/Qt-130.git
+[submodule "Qt-131"]
+	path = Qt-131
+	url = https://github.com/voidrealms/Qt-131.git
+[submodule "Qt-132"]
+	path = Qt-132
+	url = https://github.com/voidrealms/Qt-132.git
+[submodule "Qt-133"]
+	path = Qt-133
+	url = https://github.com/voidrealms/Qt-133.git
+[submodule "Qt-134"]
+	path = Qt-134
+	url = https://github.com/voidrealms/Qt-134.git
+[submodule "Qt-135"]
+	path = Qt-135
+	url = https://github.com/voidrealms/Qt-135.git
+[submodule "Qt-136"]
+	path = Qt-136
+	url = https://github.com/voidrealms/Qt-136.git
+[submodule "Qt-137"]
+	path = Qt-137
+	url = https://github.com/voidrealms/Qt-137.git
+[submodule "Qt-138"]
+	path = Qt-138
+	url = https://github.com/voidrealms/Qt-138.git
+[submodule "Qt-139"]
+	path = Qt-139
+	url = https://github.com/voidrealms/Qt-139.git
+[submodule "Qt-140"]
+	path = Qt-140
+	url = https://github.com/voidrealms/Qt-140.git
+[submodule "Qt-141"]
+	path = Qt-141
+	url = https://github.com/voidrealms/Qt-141.git
+[submodule "Qt-142"]
+	path = Qt-142
+	url = https://github.com/voidrealms/Qt-142.git
+[submodule "Qt-143"]
+	path = Qt-143
+	url = https://github.com/voidrealms/Qt-143.git
+[submodule "Qt-144"]
+	path = Qt-144
+	url = https://github.com/voidrealms/Qt-144.git
+[submodule "Qt-145"]
+	path = Qt-145
+	url = https://github.com/voidrealms/Qt-145.git
+[submodule "Qt-146"]
+	path = Qt-146
+	url = https://github.com/voidrealms/Qt-146.git
+[submodule "Qt-147"]
+	path = Qt-147
+	url = https://github.com/voidrealms/Qt-147.git
+[submodule "Qt-149"]
+	path = Qt-149
+	url = https://github.com/voidrealms/Qt-149.git
+[submodule "Qt-150"]
+	path = Qt-150
+	url = https://github.com/voidrealms/Qt-150.git
+[submodule "Qt-151"]
+	path = Qt-151
+	url = https://github.com/voidrealms/Qt-151.git
+[submodule "Qt-152"]
+	path = Qt-152
+	url = https://github.com/voidrealms/Qt-152.git
+[submodule "Qt-153"]
+	path = Qt-153
+	url = https://github.com/voidrealms/Qt-153.git
+[submodule "Qt-154"]
+	path = Qt-154
+	url = https://github.com/voidrealms/Qt-154.git
+[submodule "Qt-155"]
+	path = Qt-155
+	url = https://github.com/voidrealms/Qt-155.git
